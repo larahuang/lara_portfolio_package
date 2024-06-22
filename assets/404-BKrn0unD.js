@@ -1,1 +1,0 @@
-import{_ as o,o as r,c as n,a,b as s,F as c}from"./index-C-KWq68p.js";const l={};function u(t,e){return r(),n(c,null,[a(" 404 "),s("button",{onClick:e[0]||(e[0]=_=>t.$router.push("/"))},"回首頁")],64)}const d=o(l,[["render",u]]);export{d as default};
