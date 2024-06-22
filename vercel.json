@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/:catchAll(.*)",
-      "destination": "/"
+      "source": "/(.*)",
+      "destination": "/[...all]/index"
     }
   ]
 }
