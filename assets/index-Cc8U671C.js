@@ -1,0 +1,1 @@
+import{_ as n,o,c as r,f as s,g as a,F as c}from"./index-Dfri8JnQ.js";const f={};function l(t,e){return o(),r(c,null,[s(" 404 "),a("button",{onClick:e[0]||(e[0]=u=>t.$router.push("/"))},"回首頁")],64)}const _=n(f,[["render",l]]);export{_ as default};
