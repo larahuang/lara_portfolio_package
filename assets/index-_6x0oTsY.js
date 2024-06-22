@@ -1,1 +1,0 @@
-import{b as o}from"./route-block-B_A1xBdJ.js";import{_ as r,o as s,c as a,g as c,b as f,F as i}from"./index-BnR3Lv_X.js";const t={};function l(n,e){return s(),a(i,null,[c(" 404 "),f("button",{onClick:e[0]||(e[0]=u=>n.$router.push("/"))},"回首頁")],64)}typeof o=="function"&&o(t);const d=r(t,[["render",l]]);export{d as default};
