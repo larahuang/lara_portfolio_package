@@ -1,0 +1,1 @@
+import{a as o,r,c as s,e as t,t as l,F as u,g as p}from"./index-BfZHO9Ru.js";const f=o({__name:"404",setup(i){const n=r("404");return(a,e)=>(p(),s(u,null,[t("div",null,l(n.value),1),t("button",{onClick:e[0]||(e[0]=c=>a.$router.push("/"))},"回首頁")],64))}});export{f as default};
